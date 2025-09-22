@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "vite",
-    "build": "[my-framework] build --output public",
+    "build": "vite build  ",
     "lint": "eslint .",
     "preview": "vite preview"
   },
