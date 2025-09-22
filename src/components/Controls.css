@@ -1,0 +1,8 @@
+.controls { display:flex; gap:10px; align-items:center; background:transparent; }
+.controls label{ display:flex; flex-direction:column; font-size:13px; color:#c6d0d9 }
+.controls input{ width:70px; padding:6px 8px; border-radius:6px; border:1px solid #223; background:#0b1114; color:#fff; margin-top:6px }
+.btns { display:flex; gap:6px; margin-left:6px }
+.controls button{ padding:8px 12px; border-radius:8px; border:none; cursor:pointer; font-weight:600 }
+.controls .start{ background:#22c55e; color:#061b09 }
+.controls .stop{ background:#f59e0b; color:#2b1200 }
+.controls .reset{ background:#ef4444; color:#2b0505 }

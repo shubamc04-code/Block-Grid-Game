@@ -1,0 +1,8 @@
+.board {
+  display:grid;
+  gap:6px;
+  justify-content:center;
+  padding:12px;
+  background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(0,0,0,0.06));
+  border-radius:8px;
+}
